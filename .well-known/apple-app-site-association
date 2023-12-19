@@ -1,0 +1,25 @@
+{
+  "applinks": {
+    "apps": [],
+    "webcredentials": {
+      "apps": ["HFG85958QC.com.fiserv.hiwa.mains", "E8K73552F8.com.fiserv.hiwa.mains"]
+    },
+    "applinks": {
+      "apps": [],
+				"details": [
+						{
+								"appID": "HFG85958QC.com.fiserv.hiwa.mains",
+								"paths": [
+										"/flowComplete"
+								]
+						},
+						{
+              "appID": "E8K73552F8.com.fiserv.hiwa.mains",
+              "paths": [
+                  "/flowComplete"
+              ]
+          }
+				]
+    }
+  }
+}
